@@ -8,6 +8,6 @@ weight = 1
 > [!info] 
 > Description du projet et de l'equipe.
 
-## La hiérarchie mémoire dans les microprocesseur généraliste.
+## La couche de compatibilité des applications et jeux Windows Proton sur linux.
 
-Par Thomas Piquet.
+Par Youssef El Maazouzi.
