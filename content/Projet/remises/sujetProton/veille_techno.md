@@ -54,17 +54,18 @@ Au lieu d'émuler un CPU ou Windows au complet, Proton **traduit à la volée** 
 
 ### Discussion critique de la réponse
 
-- Le LLM a généré une réponse qui explique brièvement et en détail ce que j'ai demandé. Il a même fait un diagramme que je n'ai pas demandé pour mieux expliquer. Il a ajouté aussi les sources utilisés lors de la recherche web. Les informations données me semble bons par rapport à ce que je connais mise à part l'explication des des briques principales. Sinon, pour la description de Proton, c'est très cohérent.
+- Le LLM a généré une réponse qui explique brièvement et en détail ce que j'ai demandé. Il a même fait un diagramme que je n'ai pas demandé pour mieux expliquer. Il a ajouté aussi les sources utilisés lors de la recherche web. Les informations données me semble bons par rapport à ce que je connais mise à part l'explication des briques principales que je connais moins. Sinon, pour la description de Proton, c'est très cohérent.
 ---
 
 ## 2. Audit des citations
-*(À compléter : ouvrir les sources citées par l'IA et vérifier si le modèle résume fidèlement les articles originaux ou s'il extrapole des faits.)*
-
+- Après avoir ouvert les sources citées par le LLM, le lien github explique dans le readme comment proton fonctionne et c'est avec cela qu'il a pu faire les briques principales. Cependant, le LLM ne m'a pas donnée les liens directes vers les sites web comme protondb, GamingOnLinux ou encore Reddit. Il a m'a juste donné le nom alors je dois faire une recherche sur le web avec cela sans savoir quels articles précisément il a utilisé. Le LLM n'a pas fait une recherche sur des documentations techniques mise à part le dépôt github. 
 ---
 
 ## 3. Comparaison méthodologique
 *(À compléter : comparer cette synthèse avec une recherche manuelle directe — documentation officielle, dépôts GitHub, moteurs de recherche — et/ou un second LLM.)*
-
+- Moteurs de recherche : DuckDuckGo 
+- Documentation : https://mundobytes.com/fr/Qu%27est-ce-que-Proton-de-Valve-et-comment-r%C3%A9volutionne-t-il-le-jeu-sur-Linux%C2%A0/ , https://en.wikipedia.org/wiki/Proton_(software)
+- Github : https://github.com/ValveSoftware/Proton
 ---
 
 ## 4. Source pivot
